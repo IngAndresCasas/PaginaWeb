@@ -1,0 +1,27 @@
+.post1{
+    background: url(../resources/images/post/decorarkymain_big.jpg);
+    background-size: 1450px;
+    background-position: center;
+    border-top-left-radius: 90px; 
+    padding: 5px; 
+    height: 80vh; 
+    margin: 5px 5px;
+}
+
+.textonav{
+    color: white;
+    
+    text-decoration-color: white;
+    
+}
+
+.menu{
+    border-top-left-radius: 90px; 
+    height: 20%;
+    
+}
+.rowMenu{
+    height: 75vh;
+    background-color: blueviolet;
+}
+
